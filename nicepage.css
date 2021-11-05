@@ -34995,7 +34995,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 
-
+@media (max-width: 575px) {
+  .u-header .u-menu-1 {
+    margin-top: 28px;
+    margin-right: -12px;
+    margin-bottom: 28px;
+  }
+}
  .u-footer {
   background-image: none;
 }
