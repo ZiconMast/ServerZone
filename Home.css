@@ -164,7 +164,7 @@
 
 .u-section-2 .u-layout-wrap-1 {
   width: 625px;
-  margin: -709px 0 -83px auto;
+  margin: -709px 0 -70px auto;
 }
 
 .u-section-2 .u-layout-cell-1 {
@@ -745,7 +745,6 @@
   min-height: 170px;
   box-shadow: 5px 5px 0px 0 rgba(0,0,0,0.1);
   width: 227px;
-  height: auto;
   margin: -484px 23px 60px auto;
 }
 
@@ -820,10 +819,6 @@
 
   .u-section-3 .u-layout-cell-4 {
     min-height: 369px;
-  }
-
-  .u-section-3 .u-group-4 {
-    height: auto;
   }
 
   .u-section-3 .u-text-16 {
